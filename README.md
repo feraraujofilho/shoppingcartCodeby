@@ -26,9 +26,3 @@ npm start
 ## Stack
 
 React, Typescript, materialUI.
-
-## ScreenShot
-
-![alt text](https://github.com/feraraujofilho/shoppingcartCodeby/blob/master/assets/Screenshot_shopping-cart_1.png?raw=true)
-
-![alt text](https://github.com/feraraujofilho/shoppingcartCodeby/blob/master/assets/Screenshot_shopping_cart_2.png?raw=true)
