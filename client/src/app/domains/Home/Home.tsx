@@ -3,8 +3,9 @@ import useStyles from "./HomeStyles";
 import { Button, Card, CardContent, Typography } from "@material-ui/core";
 import Axios from "axios";
 import { ProductProps } from "../../interfaces";
-import ItemsList from "../ItemsList/ItemsList";
+import ItemsList from "../../components/ItemsList/ItemsList";
 import { convertCentsIntoReais } from "../../helpers";
+import { ENDPOINT } from "../../constants";
 
 const Home: FC = () => {
     const classes = useStyles();
@@ -13,7 +14,7 @@ const Home: FC = () => {
     const [error, setError] = useState();
 
     useEffect(() => {
-        Axios.get("http://localhost:4000/")
+        Axios.get(ENDPOINT)
             .then((res) => {
                 setProducts(res.data);
             })

@@ -25,4 +25,4 @@ npm start
 
 ## Stack
 
-React, Typescript, materialUI.
+React, Typescript, materialUI, Express, NodeJs.
