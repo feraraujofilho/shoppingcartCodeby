@@ -29,6 +29,6 @@ React, Typescript, materialUI.
 
 ## ScreenShot
 
-![alt text](https://github.com/feraraujofilho/KollexAuthenticationApp/blob/master/assets/kollex_login.png?raw=true)
+![alt text](https://github.com/feraraujofilho/shoppingcartCodeby/blob/master/assets/Screenshot_shopping-cart_1.png)
 
-![alt text](https://github.com/feraraujofilho/KollexAuthenticationApp/blob/master/assets/PlanningApp.jpg?raw=true)
+![alt text](https://github.com/feraraujofilho/shoppingcartCodeby/blob/master/assets/Screenshot_shopping_cart_2.png)
